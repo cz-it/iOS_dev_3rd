@@ -6,3 +6,5 @@ SDKs | Function
 ---|---
 MBProgressHUD| 转菊花
 EAIntroView | 首次安装时候的简介
+FMDB | SQLite3
+AFNetwork | Http Request
